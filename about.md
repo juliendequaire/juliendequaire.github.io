@@ -13,7 +13,7 @@ Experienced Senior Network Engineer with a demonstrated history of working in th
 
 You can contact me by [email](mailto:j.dequaire@icloud.com).
 
-My GitHub workspace is [here](https//github.com/juliendequaire).
+My GitHub workspace is [here](https://github.com/juliendequaire).
 
 You can also follow me on social network :
 - [Twitter](https://twitter.com/juliendequaire).
