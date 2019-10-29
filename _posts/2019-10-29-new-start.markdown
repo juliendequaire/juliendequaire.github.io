@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "New Start"
+date:   2019-10-29 15:52:03 -0400
+categories: blog update
+---
+The first post of a new set of others...
+
+I've decided to post daily on the blog with ideas and code example in order to force me writting technical design and some code example.
+
+`C'est en forgeant qu'on devient forgeron`
+
+I will try to post at least some code / comments about a product every day.
+
+I will also try to post some `how to` on multiple topics such as:
+- cpp
+- aws
+- docker
+- c#
+- etc...
+
+Feel free to have a look at my **[github](https://github.com/juliendequaire)**.
+
+Here are few link where to follow me:
+- [twitter](https://twitter.com/juliendequaire)
+- [facebook](https://facebook.com/juliendequaire)
+- [linkedin](https://linkedin.com/in/juliendequaire)
