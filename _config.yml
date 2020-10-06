@@ -1,12 +1,28 @@
-title: Julien Dequaire's Den
-email: julien.dequaire@gmail.com
-description: >-
-  Just a little of me, exploration, implementation and concepts
-baseurl: ""
-url: "juliendequaire.github.io"
-twitter_username: juliendequaire
-github_username:  juliendequaire
+title: Julien Dequaire personnal blog
+author:
+  name: Julien Dequaire
+  email: julien.dequaire@gmail.com
+description: >
+  Julien Dequaire's personnal blog
+
+show_excerpts: false
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: juliendequaire
+    github:  juliendequaire
+    linkedin: juliendequaire
+
+header_pages:
+ - about.md
 
 theme: minima
+
+minima:
+  skin: dark
+
 plugins:
-  - jekyll-feed
+ - jekyll-feed
+ - jekyll-seo-tag
