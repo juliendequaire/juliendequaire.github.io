@@ -1,1 +1,1 @@
-# juliendequaire.github.io
+# Julien Dequaire's personal blog
