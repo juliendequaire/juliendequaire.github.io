@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! Below is an overview of my professional experience, skills, and projects.
 
 ## 👨‍💻 About Me
-I am a seasoned Principal Online Programmer with extensive experience in network and replication systems, particularly in game development. With a career spanning over 14 years at Ubisoft and Invoke Studios, I have developed a deep expertise in building online frameworks, replication systems, and network engines for AAA games.
+I am a seasoned Principal Online Programmer with extensive experience in network and replication systems, particularly in game development. With a career spanning over 15 years at Ubisoft and Invoke Studios, I have developed a deep expertise in building online frameworks, replication systems, and network engines for AAA games.
 
 ---
 
@@ -15,6 +15,18 @@ I am a seasoned Principal Online Programmer with extensive experience in network
 ---
 
 ## 💼 Experience
+
+### Ubisoft Montréal - Senior Network Engineer
+**Jul 2025 - Now**
+- Led the replication framework design and implementation for *Far Cry*.
+- Developed APIs for online and networking code to integrate with Gameplay/UI systems.
+
+### Ubisoft Montréal - Senior Network Engineer
+**Feb 2025 - Jul 2025**
+- Led the replication framework design and implementation for *AC Codename Invictus*.
+- Developed APIs for networking code to integrate with Gameplay/UI systems.
+- Worked on prediction, rollback, and bandwidth optimization for multiplayer functionality.
+
 ### Invoke Studios - Principal Online Programmer
 **Oct 2024 - Jan 2025**  
 Montréal, Québec, Canada  
